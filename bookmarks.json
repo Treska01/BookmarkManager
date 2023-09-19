@@ -1,26 +1,38 @@
 [
     {
         "Id": 1,
-        "Name": "Pierre Failles",
-        "Phone": "(450) 430-3120",
-        "Email": "Pierre.Faille@clg.qc.ca"
+        "Titre": "Google",
+        "Url": "https://www.google.com/",
+        "Categorie": "Recherche"
     },
     {
-        "Id": 2,
-        "Name": "Nicolas Chourot",
-        "Phone": "(450) 430-3120",
-        "Email": "Nicolas.Chourot@clg.qc.ca"
+        "Id": 5,
+        "Titre": "FanFiction.Net",
+        "Url": "https://www.fanfiction.net/",
+        "Categorie": "Fanfiction"
     },
     {
-        "Name": "Saliha Yacoub",
-        "Phone": "(450) 430-3120",
-        "Email": "Saliha.Yacoub@clg.qc.ca",
-        "Id": 3
+        "Titre": "DuckDuckGo",
+        "Url": "https://duckduckgo.com/",
+        "Categorie": "Recherche",
+        "Id": 2
+    },
+    {
+        "Id": 6,
+        "Titre": "Ao3 (Archive Of Our Own)",
+        "Url": "https://www.archiveofourown.org/",
+        "Categorie": "Fanfiction"
     },
     {
         "Id": 4,
-        "Name": "Kyle Ross",
-        "Phone": "(450) 430-3120",
-        "Email": "Kyle.Ross@clg.qc.ca"
+        "Titre": "Serebii",
+        "Url": "https://serebii.net/",
+        "Categorie": "Pokemon"
+    },
+    {
+        "Id": 3,
+        "Titre": "Bulbapedia",
+        "Url": "https://bulbapedia.bulbagarden.net/",
+        "Categorie": "Pokemon"
     }
 ]
